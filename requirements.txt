@@ -1,0 +1,7 @@
+streamlit
+pandas
+altair
+plotly
+pydeck
+streamlit-authenticator
+PyYAML
